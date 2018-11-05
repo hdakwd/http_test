@@ -22,7 +22,7 @@
             android:id="@+id/btClick"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="URL"
+            android:text="@string/btn"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"

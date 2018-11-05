@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">http_test</string>
+    <string name="btn">URL</string>
 </resources>
