@@ -18,7 +18,7 @@ import java.net.URLConnection;
 
 public class MainActivity extends Activity {
     URL url;
-    URLConnection connection; //add test
+    URLConnection connection;
     TextView textView;
     String line;
     StringBuilder html;
