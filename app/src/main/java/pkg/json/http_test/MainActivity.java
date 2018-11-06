@@ -33,7 +33,6 @@ public class MainActivity extends Activity {
         btClick.setOnClickListener(listener);
     }
 
-
     private class Clicklistener implements View.OnClickListener {
         @Override
         public void onClick(View view) {
